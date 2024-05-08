@@ -17,7 +17,7 @@ I am a passionate curiosity-driven frontend developer. My curiosity, as well as 
 -->
 ### 📚 Learning Path
 
-I'm always eager to learn and grow as a developer. Currently, I'm focusing on mastering advanced React concepts, diving deeper into state management with Redux or React Context API, and exploring server-side rendering with Next.js.
+I'm always eager to learn and grow as a developer. Currently, I'm focusing on mastering advanced React concepts, diving deeper into state management with Redux or React Context API, and exploring server-side rendering with Next.js. Additionally, I'm learning React Native to expand my skills into mobile app development.
 
 ### 🌐 Connect with Me
 
