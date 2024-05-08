@@ -1,4 +1,4 @@
-# Hi there! 👋 My name is Brown Memoye
+# Hi there! 👋 I'm Brown Memoye
 ## A Passionate Frontend Developer
 I am a passionate curiosity-driven frontend developer. My curiosity, as well as my love for creativity has been my drive to learning and building on the web. I am deeply interested in building solutions with simple, yet intuitive user experiences that would create genuine connections between the user and the products. With a keen interest in creating captivating user interfaces and delivering exceptional web experiences, I'm constantly honing my skills and embracing the ever-evolving landscape of web technologies.
 
