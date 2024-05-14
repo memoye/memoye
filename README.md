@@ -27,10 +27,9 @@ I'm always eager to learn and grow as a developer. Currently, I'm focusing on ma
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities to collaborate!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memoye&show_icons=true&theme=dark)](https://github.com/memoye)
 
 <!--
-**memoye/memoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=memoye&show_icons=true&theme=dark)](https://github.com/memoye)\
 
 Here are some ideas to get you started:
 
