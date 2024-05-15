@@ -23,7 +23,8 @@ I'm always eager to learn and grow as a developer. Currently, I'm focusing on ma
 
 - LinkedIn - [Brown Memoye](https://www.linkedin.com/in/b-me)
 - 𝕏 - [@memoye_io](https://x.com/memoye_io)
-- Personal Website - [memoye-dev.vercel.app](https://memoye-dev.vercel.app) ⚠️_This is still under construction!_
+- Frontend Mentor - [@memoye]([https://memoye-dev.vercel.app](https://www.frontendmentor.io/profile/memoye))
+- Personal Website - [memoye-dev.vercel.app](https://memoye-dev.vercel.app) ⚠️ _This is still under construction!_
 <!-- - [Personal Website](https://your-website.com) -->
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities to collaborate!
