@@ -15,9 +15,12 @@ I am a passionate curiosity-driven frontend developer. My curiosity, as well as 
 - **[Project Name]**: A brief description of your current or most recent project, highlighting its key features and technologies used.
 - **[Project Name]**: Another project you're working on or have completed, demonstrating your skills and problem-solving abilities.
 -->
-### 📚 Learning Path
 
-I'm always eager to learn and grow as a developer. Currently, I'm focusing on mastering advanced React concepts, diving deeper into state management with Redux or React Context API, and exploring server-side rendering with Next.js. Additionally, I'm learning React Native to expand my skills into mobile app development.
+
+
+<!--
+### 📚 Learning Path
+I'm always eager to learn and grow as a developer. Currently, I'm focusing on mastering advanced React concepts, diving deeper into state management with Redux or React Context API, and exploring server-side rendering with Next.js. Additionally, I'm learning React Native to expand my skills into mobile app development. -->
 
 ### 🌐 Connect with Me
 
