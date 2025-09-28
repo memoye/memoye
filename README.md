@@ -8,6 +8,8 @@ I am a passionate curiosity-driven frontend developer. My curiosity, as well as 
 - **TypeScript**: Experienced in using TypeScript for enhanced code quality, maintainability, and developer tooling in React applications.
 - **JavaScript**: Solid understanding of modern JavaScript (ES6+), including concepts like asynchronous programming, closures, and functional programming.
 - **HTML & CSS**: Strong knowledge of HTML5 and CSS3, with experience in structuring semantic markup and styling web pages with responsive designs.
+- **Flutter**
+- **React Native**
 - **Version Control**: Experienced with Git and GitHub for efficient version control and collaborative development.
 <!--
 ### 💻 Current Projects
